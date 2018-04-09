@@ -1,0 +1,274 @@
+1>#  prueba de crear_cadena y liberar_cadena.
+2>#  Fin.
+3>#  prueba de es_vacia_cadena, insertar_al_final, imprimir_cadena.
+4>cad vacia.
+5>
+6>Insertado al final.
+7>cad no vacia.
+8>(1,b)
+9>Insertado al final.
+10>Insertado al final.
+11>(1,b)(2,c)(3,d)
+12>#  Fin.
+13>#  prueba de es_localizador, localizador_en_cadena, precede_en_cadena, incicio_cadena, final_cadena, kesimo, info_cadena.
+14>loc no válido.
+15>loc no pertenece a cad.
+16>loc al inicio.
+17>loc válido.
+18>loc pertenece a cad.
+19>loc1 precede a loc.
+20>loc1 no precede a loc.
+21>(1,b)
+22>loc al final.
+23>loc válido.
+24>loc pertenece a cad.
+25>loc1 precede a loc.
+26>loc1 precede a loc.
+27>(3,d)
+28>loc en la posición 1.
+29>loc válido.
+30>loc pertenece a cad.
+31>(1,b)
+32>loc en la posición 2.
+33>loc válido.
+34>loc pertenece a cad.
+35>(2,c)
+36>loc en la posición 3.
+37>loc válido.
+38>loc pertenece a cad.
+39>(3,d)
+40>loc en la posición 0.
+41>loc no válido.
+42>loc no pertenece a cad.
+43>loc en la posición 4.
+44>loc no válido.
+45>#  localizador_en_cadena.
+46>(1,b)(2,c)(3,d)
+47>#  Fin.
+48>#  prueba de siguiente, anterior.
+49>loc al inicio.
+50>loc al siguiente.
+51>(2,c)
+52>loc al anterior.
+53>(1,b)
+54>loc al siguiente.
+55>loc al siguiente.
+56>(3,d)
+57>loc al siguiente.
+58>loc no válido.
+59>loc al final.
+60>loc al anterior.
+61>(2,c)
+62>loc al siguiente.
+63>(3,d)
+64>loc al anterior.
+65>loc al anterior.
+66>(1,b)
+67>loc al anterior.
+68>loc no válido.
+69>(1,b)(2,c)(3,d)
+70>#  Fin.
+71>#  prueba de es_inicio_cadena, es_final_cadena.
+72>loc al inicio.
+73>loc es incio de cad.
+74>loc no es final de cad.
+75>loc al siguiente.
+76>loc no es incio de cad.
+77>loc no es final de cad.
+78>loc al final.
+79>loc no es incio de cad.
+80>loc es final de cad.
+81>(1,b)(2,c)(3,d)
+82>#  Fin.
+83>#  prueba de remover_de_cadena.
+84>Insertado al final.
+85>loc en la posición 3.
+86>Removido.
+87>(1,b)(2,c)(4,e)
+88>loc al inicio.
+89>Removido.
+90>(2,c)(4,e)
+91>loc al final.
+92>Removido.
+93>(2,c)
+94>loc al inicio.
+95>Removido.
+96>cad vacia.
+97>
+98>Insertado al final.
+99>cad no vacia.
+100>(5,f)
+101>loc al final.
+102>Removido.
+103>cad vacia.
+104>
+105>#  Fin.
+106>#  prueba de insertar_antes.
+107>Insertado al final.
+108>loc al inicio.
+109>Insertado antes de loc.
+110>Insertado antes de loc.
+111>(2,c)(3,d)(4,d)
+112>#  Fin.
+113>#  prueba de cambiar_en_cadena, intercambiar.
+114>loc en la posición 2.
+115>Cambio.
+116>(5,e)
+117>Intercambio.
+118>(5,e)(2,c)(4,d)
+119>Intercambio.
+120>(4,d)(2,c)(5,e)
+121>Intercambio.
+122>(4,d)(5,e)(2,c)
+123>Intercambio.
+124>(2,c)(5,e)(4,d)
+125>Intercambio.
+126>(2,c)(5,e)(4,d)
+127>#  Fin.
+128>#  prueba de menor_en_cadena, siguiente_clave, anterior_clave.
+129>loc al inicio.
+130>loc avanzó hasta el menor.
+131>(2,c)
+132>loc al siguiente.
+133>loc avanzó hasta el menor.
+134>(4,d)
+135>loc retrocedió buscando 1.
+136>loc no válido.
+137>loc al final.
+138>loc retrocedió buscando 4.
+139>loc válido.
+140>(4,d)
+141>loc retrocedió buscando 2.
+142>loc válido.
+143>(2,c)
+144>loc avanzó buscando 1.
+145>loc no válido.
+146>loc al inicio.
+147>loc avanzó buscando 2.
+148>loc válido.
+149>(2,c)
+150>loc avanzó buscando 4.
+151>loc válido.
+152>(4,d)
+153>Estructuras reiniciadas.
+154>loc retrocedió buscando 4.
+155>loc no válido.
+156>loc avanzó buscando 4.
+157>loc no válido.
+158>
+159>#  Fin.
+160>#  prueba de insertar_segmento_despues, segmento_cadena, separar_segmento.
+161>Estructuras reiniciadas.
+162>Segmento insertado después de loc.
+163>
+164>
+165>
+166>Segmento insertado después de loc.
+167>(0,a)(3,d)(4,e)
+168>loc al inicio.
+169>Segmento insertado después de loc.
+170>(0,a)(3,d)(4,e)
+171>Segmento insertado después de loc.
+172>(0,a)(1,b)(2,c)(3,d)(4,e)
+173>loc al final.
+174>Segmento insertado después de loc.
+175>(0,a)(1,b)(2,c)(3,d)(4,e)(5,f)(6,g)
+176>(0,a)
+177>(6,g)
+178>(3,d)
+179>(0,a)(1,b)(2,c)(3,d)(4,e)(5,f)(6,g)
+180>(0,a)(1,b)(2,c)(3,d)(4,e)(5,f)(6,g)
+181>(6,g)
+182>(3,d)
+183>(0,a)
+184>(1,b)(2,c)(4,e)(5,f)
+185>(1,b)(2,c)(4,e)(5,f)
+186>
+187>#  Fin.
+188>#  prueba de esta_ordenada, mezcla.
+189>cad ordenada.
+190>Insertado al final.
+191>cad ordenada.
+192>loc al final.
+193>Segmento insertado después de loc.
+194>cad no ordenada.
+195>loc al inicio.
+196>Removido.
+197>cad ordenada.
+198>(0,a)(3,d)(4,e)
+199>(0,a)(1,b)(2,c)(3,d)(3,c)(4,e)(4,f)
+200>Estructuras reiniciadas.
+201>
+202>(1,b)(2,c)(3,c)(4,f)
+203>
+204>#  Fin.
+205>#  prueba de pertenece, longitud, cambiar_todos.
+206>Estructuras reiniciadas.
+207>Longitud: 0
+208>1 no pertenece a cad.
+209>Insertado al final.
+210>Longitud: 1
+211>1 pertenece a cad.
+212>10 no pertenece a cad.
+213>Insertado al final.
+214>Insertado al final.
+215>Longitud: 3
+216>1 pertenece a cad.
+217>3 pertenece a cad.
+218>5 no pertenece a cad.
+219>10 pertenece a cad.
+220>(1,b)(3,d)(10,z)
+221>#  Fin.
+222>#  prueba de cambiar_todos.
+223>Insertado al final.
+224>Cambiados.
+225>(1,b)(3,d)(10,z)(3,dd)
+226>Cambiados.
+227>(2,b)(3,d)(10,z)(3,dd)
+228>Cambiados.
+229>(2,b)(1,d)(10,z)(1,dd)
+230>#  Fin.
+231>#  prueba de son_iguales.
+232>No son iguales.
+233>Estructuras reiniciadas.
+234>Son iguales.
+235>No son iguales.
+236>Insertado al final.
+237>Son iguales.
+238>loc al final.
+239>Segmento insertado después de loc.
+240>Son iguales.
+241>No son iguales.
+242>No son iguales.
+243>(1,b)(5,f)(3,d)(6,g)
+244>#  Fin.
+245>#  prueba de concatenar.
+246>(1,b)(5,f)(3,d)(6,g)
+247>(1,b)(5,f)(3,d)(6,g)(1,b)
+248>(1,b)(5,f)(3,d)(6,g)(1,b)(5,f)
+249>Estructuras reiniciadas.
+250>
+251>(1,b)
+252>(1,b)(5,f)
+253>
+254>#  Fin.
+255>#  prueba de ordenar.
+256>Ordenada.
+257>
+258>loc al final.
+259>Segmento insertado después de loc.
+260>Ordenada.
+261>loc al final.
+262>Segmento insertado después de loc.
+263>Ordenada.
+264>(3,d)(5,f)(6,g)
+265>#  Fin.
+266>#  prueba de subcadena.
+267>(3,d)
+268>(5,f)
+269>(6,g)
+270>(3,d)(5,f)
+271>(5,f)(6,g)
+272>(3,d)(5,f)(6,g)
+273>(3,d)(5,f)(6,g)
+274>Fin.

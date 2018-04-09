@@ -1,0 +1,39 @@
+1>#  prueba de es_localizador, localizador_en_cadena, precede_en_cadena, inicio_cadena, final_cadena, kesimo, info_cadena.
+2>Insertado al final.
+3>Insertado al final.
+4>Insertado al final.
+5>(1,a)(2,b)(3,c)
+6>loc no válido.
+7>loc no pertenece a cad.
+8>loc al inicio.
+9>loc válido.
+10>loc pertenece a cad.
+11>loc1 precede a loc.
+12>loc1 no precede a loc.
+13>(1,a)
+14>loc al final.
+15>loc válido.
+16>loc pertenece a cad.
+17>loc1 precede a loc.
+18>loc1 precede a loc.
+19>(3,c)
+20>loc en la posición 1.
+21>loc válido.
+22>loc pertenece a cad.
+23>(1,a)
+24>loc en la posición 2.
+25>loc válido.
+26>loc pertenece a cad.
+27>(2,b)
+28>loc en la posición 3.
+29>loc válido.
+30>loc pertenece a cad.
+31>(3,c)
+32>loc en la posición 0.
+33>loc no válido.
+34>loc no pertenece a cad.
+35>loc en la posición 4.
+36>loc no válido.
+37>loc no pertenece a cad.
+38>(1,a)(2,b)(3,c)
+39>Fin.

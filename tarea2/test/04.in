@@ -1,0 +1,32 @@
+# prueba de insertar_segmento_despues, segmento_cadena, separar_segmento, subcadena
+insertar_segmento_despues .
+imprimir_cadena
+segmento_cadena 1 2
+separar_segmento 1 2
+insertar_segmento_despues (0,a) (3,d) (4,e) .
+imprimir_cadena
+subcadena 3 3
+inicio_cadena
+insertar_segmento_despues .
+imprimir_cadena
+insertar_segmento_despues (1,b) (2,c) .
+imprimir_cadena
+final_cadena
+insertar_segmento_despues (5,f) (6,g) .
+imprimir_cadena
+subcadena 5 5
+subcadena 3 6
+subcadena 5 6
+segmento_cadena 1 1
+segmento_cadena 7 7
+segmento_cadena 4 4
+segmento_cadena 1 3
+imprimir_cadena
+separar_segmento 7 7
+separar_segmento 4 4
+separar_segmento 1 1
+imprimir_cadena
+separar_segmento 1 4
+subcadena 3 6
+imprimir_cadena
+Fin

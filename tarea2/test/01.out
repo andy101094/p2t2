@@ -1,0 +1,28 @@
+1>#  prueba de es_vacia_cadena, insertar_al_final, imprimir_cadena, esta_ordenada, mezcla, son_iguales, ordenar.
+2>cad vacia.
+3>
+4>Insertado al final.
+5>cad no vacia.
+6>(1,a)
+7>Insertado al final.
+8>Insertado al final.
+9>(1,a)(2,b)(3,c)
+10>cad ordenada.
+11>Insertado al final.
+12>cad ordenada.
+13>loc al final.
+14>Segmento insertado después de loc.
+15>cad no ordenada.
+16>(1,a)(2,b)(3,c)(10,z)(0,a)(3,d)(4,e)
+17>loc al inicio.
+18>Removido.
+19>cad no ordenada.
+20>(2,b)(3,c)(10,z)(0,a)(3,d)(4,e)
+21>Ordenada.
+22>(0,a)(2,b)(3,c)(3,d)(4,e)(10,z)
+23>(0,a)(2,b)(3,c)(3,d)(4,e)(10,z)
+24>(0,a)(1,b)(2,b)(2,c)(3,c)(3,d)(3,c)(4,e)(4,f)(10,z)
+25>(0,a)(2,b)(3,c)(3,d)(4,e)(10,z)
+26>No son iguales.
+27>No son iguales.
+28>Fin.

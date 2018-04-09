@@ -1,0 +1,54 @@
+# prueba de siguiente, anterior, es_inicio_cadena, es_final_cadena, remover_de_cadena, insertar_antes, pertenece, longitud
+insertar_al_final (1,a)
+insertar_al_final (2,b)
+insertar_al_final (3,c)
+insertar_al_final (4,d)
+insertar_al_final (5,e)
+inicio_cadena
+siguiente
+info_cadena
+anterior
+info_cadena
+siguiente
+siguiente
+info_cadena
+siguiente
+es_localizador
+final_cadena
+anterior
+info_cadena
+siguiente
+info_cadena
+siguiente
+info_cadena
+es_localizador
+imprimir_cadena
+inicio_cadena
+es_inicio_cadena
+es_final_cadena
+final_cadena
+es_inicio_cadena
+es_final_cadena
+imprimir_cadena
+insertar_al_final (4,e)
+kesimo 3
+remover_de_cadena
+imprimir_cadena
+inicio_cadena
+remover_de_cadena
+imprimir_cadena
+final_cadena
+remover_de_cadena
+imprimir_cadena
+longitud
+pertenece 3
+inicio_cadena
+insertar_antes (1,a)
+kesimo 3
+insertar_antes (3,c)
+imprimir_cadena
+longitud
+pertenece 1
+pertenece 10
+imprimir_cadena
+Fin

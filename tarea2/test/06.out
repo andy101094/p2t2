@@ -1,0 +1,30 @@
+1>#  prueba de cambiar_en_cadena, intercambiar, concatenar, cambiar_todos.
+2>Insertado al final.
+3>Insertado al final.
+4>Insertado al final.
+5>Insertado al final.
+6>Insertado al final.
+7>loc en la posición 2.
+8>Cambio.
+9>(5,e)
+10>(1,a)(5,e)(5,c)(4,d)(3,e)
+11>Intercambio.
+12>(5,e)(1,a)(5,c)(4,d)(3,e)
+13>Intercambio.
+14>(5,c)(1,a)(5,e)(4,d)(3,e)
+15>Intercambio.
+16>(5,c)(5,e)(1,a)(4,d)(3,e)
+17>Intercambio.
+18>(1,a)(5,e)(5,c)(4,d)(3,e)
+19>Intercambio.
+20>(1,a)(5,e)(5,c)(4,d)(3,e)
+21>(1,a)(5,e)(5,c)(4,d)(3,e)
+22>(1,a)(5,e)(5,c)(4,d)(3,e)(1,b)
+23>(1,a)(5,e)(5,c)(4,d)(3,e)(1,b)(5,f)
+24>Cambiados.
+25>(1,a)(1,e)(1,c)(4,d)(3,e)
+26>Cambiados.
+27>(2,a)(2,e)(2,c)(4,d)(3,e)
+28>Cambiados.
+29>(2,a)(2,e)(2,c)(4,d)(1,e)
+30>Fin.

@@ -1,0 +1,11 @@
+44c44
+< 44>3 no pertenece a cad.
+---
+> 44>3 pertenece a cad.
+54a55,60
+> ==9581== 192 bytes in 32 blocks are definitely lost in loss record 1 of 1
+> ==9581==    at 0x4C2E8E9: operator new[](unsigned long) (vg_replace_malloc.c:423)
+> ==9581==    by 0x401FD6: info_a_texto(rep_info*) (info.cpp:56)
+> ==9581==    by 0x403557: imprimir_cadena(rep_cadena*) (cadena.cpp:422)
+> ==9581==    by 0x401A3F: main (principal.cpp:289)
+> ==9581== 

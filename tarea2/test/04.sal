@@ -1,0 +1,6 @@
+principal: src/cadena.cpp:342: nodo* siguiente(localizador_t, cadena_t): Assertion `localizador_en_cadena(loc, cad)' failed.
+1>#  prueba de insertar_segmento_despues, segmento_cadena, separar_segmento, subcadena.
+2>Segmento insertado después de loc.
+3>
+4>
+5>

@@ -1,0 +1,82 @@
+1>cad vacia.
+2>
+3>Insertado al final.
+4>Insertado al final.
+5>Insertado al final.
+6>Insertado al final.
+7>Insertado al final.
+8>cad no vacia.
+9>(1,a)(2,b)(3,c)(4,d)(10,e)
+10>cad ordenada.
+11>Insertado al final.
+12>(1,a)(2,b)(3,c)(4,d)(10,e)(5,e)
+13>cad no ordenada.
+14>Ordenada.
+15>(1,a)(2,b)(3,c)(4,d)(5,e)(10,e)
+16>loc al final.
+17>loc al anterior.
+18>Segmento insertado después de loc.
+19>(1,a)(2,b)(3,c)(4,d)(5,e)(6,f)(7,g)(8,h)(10,e)
+20>(1,a)(1,b)(2,b)(2,c)(3,c)(3,d)(4,d)(4,f)(5,e)(6,f)(7,g)(8,h)(10,e)(10,n)
+21>(1,a)(2,b)(3,c)(4,d)(5,e)(6,f)(7,g)(8,h)(10,e)
+22>No son iguales.
+23>Son iguales.
+24>loc válido.
+25>loc pertenece a cad.
+26>(5,e)
+27>loc en la posición 3.
+28>(3,c)
+29>loc1 no precede a loc.
+30>loc al anterior.
+31>loc al anterior.
+32>loc válido.
+33>loc al siguiente.
+34>loc válido.
+35>(2,b)
+36>loc no es incio de cad.
+37>loc no es final de cad.
+38>loc al anterior.
+39>(1,a)
+40>Longitud: 9
+41>Removido.
+42>(2,b)(3,c)(4,d)(5,e)(6,f)(7,g)(8,h)(10,e)
+43>Localizador no válido.
+44>loc al inicio.
+45>loc es incio de cad.
+46>loc no es final de cad.
+47>Longitud: 8
+48>1 no pertenece a cad.
+49>10 pertenece a cad.
+50>Insertado antes de loc.
+51>(1,a)(2,b)(3,c)(4,d)(5,e)(6,f)(7,g)(8,h)(10,e)
+52>(1,a)(2,b)
+53>(1,a)(2,b)(3,c)(4,d)(5,e)(6,f)(7,g)(8,h)(10,e)
+54>(3,c)(4,d)(5,e)(6,f)
+55>(1,a)(2,b)(7,g)(8,h)(10,e)
+56>Segmento insertado después de loc.
+57>(1,a)(2,b)(3,c)(4,d)(5,e)(6,f)(7,g)(8,h)(10,e)
+58>(3,c)
+59>(1,a)(2,b)(3,c)(4,d)(5,e)(6,f)(7,g)(8,h)(10,e)
+60>loc avanzó hasta el menor.
+61>(2,b)
+62>loc al inicio.
+63>loc avanzó hasta el menor.
+64>(1,a)
+65>loc retrocedió buscando 10.
+66>Localizador no válido.
+67>loc no válido.
+68>(1,a)(2,b)(3,c)(4,d)(5,e)(6,f)(7,g)(8,h)(10,e)(1,b)(5,f)
+69>(1,a)(2,b)(3,c)(4,d)(5,e)(6,f)(7,g)(8,h)(10,e)
+70>Intercambio.
+71>Intercambio.
+72>(10,e)(6,f)(3,c)(4,d)(5,e)(2,b)(7,g)(8,h)(1,a)
+73>loc al inicio.
+74>Cambio.
+75>(5,e)(6,f)(3,c)(4,d)(5,e)(2,b)(7,g)(8,h)(1,a)
+76>Cambiados.
+77>(1,e)(6,f)(3,c)(4,d)(1,e)(2,b)(7,g)(8,h)(1,a)
+78>Ordenada.
+79>(1,e)(1,e)(1,a)(2,b)(3,c)(4,d)(6,f)(7,g)(8,h)
+80>Estructuras reiniciadas.
+81>
+82>Fin.

@@ -1,0 +1,36 @@
+insertar_al_final (5,a)
+longitud
+inicio_cadena
+es_localizador
+info_cadena
+localizador_en_cadena
+remover_de_cadena
+inicio_cadena
+es_localizador
+imprimir_cadena
+reiniciar
+son_iguales .
+son_iguales (1,a) .
+inicio_cadena
+insertar_segmento_despues (6,f) (7,g) (8,h) .
+longitud
+inicio_cadena
+insertar_antes (1,a)
+imprimir_cadena
+esta_ordenada
+kesimo 2
+insertar_antes (2,b)
+longitud
+imprimir_cadena
+es_inicio_cadena
+es_final_cadena
+info_cadena
+siguiente
+siguiente
+es_final_cadena
+info_cadena
+menor_en_cadena
+info_cadena
+subcadena 6 6
+imprimir_cadena
+Fin

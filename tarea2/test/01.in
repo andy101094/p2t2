@@ -1,0 +1,28 @@
+# prueba de es_vacia_cadena, insertar_al_final, imprimir_cadena, esta_ordenada, mezcla, son_iguales, ordenar
+es_vacia_cadena
+imprimir_cadena
+insertar_al_final (1,a)
+es_vacia_cadena
+imprimir_cadena
+insertar_al_final (2,b)
+insertar_al_final (3,c)
+imprimir_cadena
+esta_ordenada
+insertar_al_final (10,z)
+esta_ordenada
+final_cadena
+insertar_segmento_despues (0,a) (3,d) (4,e) .
+esta_ordenada
+imprimir_cadena
+inicio_cadena
+remover_de_cadena
+esta_ordenada
+imprimir_cadena
+ordenar
+imprimir_cadena
+mezcla .
+mezcla (1,b) (2,c) (3,c) (4,f) .
+imprimir_cadena
+son_iguales .
+son_iguales (1,b) (2,c) (3,c) (4,f) .
+Fin

@@ -1,0 +1,38 @@
+1>#  prueba de menor_en_cadena, siguiente_clave, anterior_clave.
+2>Insertado al final.
+3>Insertado al final.
+4>Insertado al final.
+5>Insertado al final.
+6>Insertado al final.
+7>loc al inicio.
+8>loc avanzó hasta el menor.
+9>(1,a)
+10>loc al siguiente.
+11>loc al siguiente.
+12>loc avanzó hasta el menor.
+13>(3,e)
+14>loc retrocedió buscando 1.
+15>loc válido.
+16>loc al final.
+17>loc retrocedió buscando 4.
+18>loc válido.
+19>(4,d)
+20>loc retrocedió buscando 2.
+21>loc válido.
+22>(2,b)
+23>loc avanzó buscando 1.
+24>loc no válido.
+25>loc al inicio.
+26>loc avanzó buscando 2.
+27>loc válido.
+28>(2,b)
+29>loc avanzó buscando 4.
+30>loc válido.
+31>(4,d)
+32>Estructuras reiniciadas.
+33>loc retrocedió buscando 4.
+34>loc no válido.
+35>loc avanzó buscando 4.
+36>loc no válido.
+37>
+38>Fin.

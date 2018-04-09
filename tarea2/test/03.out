@@ -1,0 +1,54 @@
+1>#  prueba de siguiente, anterior, es_inicio_cadena, es_final_cadena, remover_de_cadena, insertar_antes, pertenece, longitud.
+2>Insertado al final.
+3>Insertado al final.
+4>Insertado al final.
+5>Insertado al final.
+6>Insertado al final.
+7>loc al inicio.
+8>loc al siguiente.
+9>(2,b)
+10>loc al anterior.
+11>(1,a)
+12>loc al siguiente.
+13>loc al siguiente.
+14>(3,c)
+15>loc al siguiente.
+16>loc válido.
+17>loc al final.
+18>loc al anterior.
+19>(4,d)
+20>loc al siguiente.
+21>(5,e)
+22>loc al siguiente.
+23>Localizador no válido.
+24>loc no válido.
+25>(1,a)(2,b)(3,c)(4,d)(5,e)
+26>loc al inicio.
+27>loc es incio de cad.
+28>loc no es final de cad.
+29>loc al final.
+30>loc no es incio de cad.
+31>loc es final de cad.
+32>(1,a)(2,b)(3,c)(4,d)(5,e)
+33>Insertado al final.
+34>loc en la posición 3.
+35>Removido.
+36>(1,a)(2,b)(4,d)(5,e)(4,e)
+37>loc al inicio.
+38>Removido.
+39>(2,b)(4,d)(5,e)(4,e)
+40>loc al final.
+41>Removido.
+42>(2,b)(4,d)(5,e)
+43>Longitud: 3
+44>3 no pertenece a cad.
+45>loc al inicio.
+46>Insertado antes de loc.
+47>loc en la posición 3.
+48>Insertado antes de loc.
+49>(1,a)(2,b)(3,c)(4,d)(5,e)
+50>Longitud: 5
+51>1 pertenece a cad.
+52>10 no pertenece a cad.
+53>(1,a)(2,b)(3,c)(4,d)(5,e)
+54>Fin.

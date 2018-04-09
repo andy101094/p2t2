@@ -1,0 +1,39 @@
+# prueba de es_localizador, localizador_en_cadena, precede_en_cadena, inicio_cadena, final_cadena, kesimo, info_cadena
+insertar_al_final (1,a)
+insertar_al_final (2,b)
+insertar_al_final (3,c)
+imprimir_cadena
+es_localizador
+localizador_en_cadena
+inicio_cadena
+es_localizador
+localizador_en_cadena
+precede_en_cadena 1
+precede_en_cadena 3
+info_cadena
+final_cadena
+es_localizador
+localizador_en_cadena
+precede_en_cadena 1
+precede_en_cadena 3
+info_cadena
+kesimo 1
+es_localizador
+localizador_en_cadena
+info_cadena
+kesimo 2
+es_localizador
+localizador_en_cadena
+info_cadena
+kesimo 3
+es_localizador
+localizador_en_cadena
+info_cadena
+kesimo 0
+es_localizador
+localizador_en_cadena
+kesimo 4
+es_localizador
+localizador_en_cadena
+imprimir_cadena
+Fin

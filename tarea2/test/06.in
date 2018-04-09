@@ -1,0 +1,30 @@
+# prueba de cambiar_en_cadena, intercambiar, concatenar, cambiar_todos
+insertar_al_final (1,a)
+insertar_al_final (2,b)
+insertar_al_final (5,c)
+insertar_al_final (4,d)
+insertar_al_final (3,e)
+kesimo 2
+cambiar_en_cadena (5,e)
+info_cadena
+imprimir_cadena
+intercambiar 1 2
+imprimir_cadena
+intercambiar 1 3
+imprimir_cadena
+intercambiar 2 3
+imprimir_cadena
+intercambiar 3 1
+imprimir_cadena
+intercambiar 1 1
+imprimir_cadena
+concatenar .
+concatenar (1,b) .
+concatenar (1,b) (5,f) .
+cambiar_todos 5 1
+imprimir_cadena
+cambiar_todos 1 2
+imprimir_cadena
+cambiar_todos 3 1
+imprimir_cadena
+Fin

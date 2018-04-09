@@ -1,0 +1,7 @@
+39a40,45
+> ==9577== 36 bytes in 6 blocks are definitely lost in loss record 1 of 1
+> ==9577==    at 0x4C2E8E9: operator new[](unsigned long) (vg_replace_malloc.c:423)
+> ==9577==    by 0x401FD6: info_a_texto(rep_info*) (info.cpp:56)
+> ==9577==    by 0x403557: imprimir_cadena(rep_cadena*) (cadena.cpp:422)
+> ==9577==    by 0x401A3F: main (principal.cpp:289)
+> ==9577== 

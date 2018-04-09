@@ -1,0 +1,38 @@
+# prueba de menor_en_cadena, siguiente_clave, anterior_clave
+insertar_al_final (1,a)
+insertar_al_final (2,b)
+insertar_al_final (5,c)
+insertar_al_final (4,d)
+insertar_al_final (3,e)
+inicio_cadena
+menor_en_cadena
+info_cadena
+siguiente
+siguiente
+menor_en_cadena
+info_cadena
+anterior_clave 1
+es_localizador
+final_cadena
+anterior_clave 4
+es_localizador
+info_cadena
+anterior_clave 2
+es_localizador
+info_cadena
+siguiente_clave 1
+es_localizador
+inicio_cadena
+siguiente_clave 2
+es_localizador
+info_cadena
+siguiente_clave 4
+es_localizador
+info_cadena
+reiniciar
+anterior_clave 4
+es_localizador
+siguiente_clave 4
+es_localizador
+imprimir_cadena
+Fin
